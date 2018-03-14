@@ -3,3 +3,7 @@ django
 selenium
 pytest
 brightside
+numpy
+pytest
+pandas
+pdfminer.six
